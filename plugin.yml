@@ -1,0 +1,9 @@
+name: TSProtectChest
+main: tss\TSProtectChest\TSProtectChest
+version: "1.0.0"
+author: tss
+api: 4.0.0
+
+commands:
+  상자:
+    description: T-ProtectChest
